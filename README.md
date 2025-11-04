@@ -21,7 +21,7 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=djdanielsson&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=djdanielsson&count_private=true&show_icons=true&rank_icon=default&include_all_commits=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdanielsson&hide=javascript,css,scss,less&layout=compact&langs_count=8&theme=transparent)
 <!--
 <a href="https://stats.hyochan.dev/en/stats/djdanielsson"><img src="https://stats.hyochan.dev/api/github-stats?login=djdanielsson" width="600" /></a>
